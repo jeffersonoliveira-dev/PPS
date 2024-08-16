@@ -1,0 +1,4 @@
+repository "papai surra simulator@cardbeatt@cloud"
+  path "/"
+    br "/main"
+    co "/main"
